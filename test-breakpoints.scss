@@ -1,16 +1,16 @@
 // bootstrap breakpoints
 body:after {
-	position: fixed;
-	z-index: 1000000;
-	display: block;
-	top: 10px;
-	left: 10px;
-	text-align: center;
-	font-size: 2em;
-	color: #fff;
-	padding: 0 .2em;
 	background-color: #2b2;
 	border-radius: 3px;
+	color: #fff;
+	display: block;
+	font-size: 2em;
+	left: 10px;
+	padding: 0 .2em;
+	position: fixed;
+	text-align: center;
+	top: 10px;
+	z-index: 1000000;
 }
 
 
